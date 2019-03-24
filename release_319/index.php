@@ -54,7 +54,7 @@
             </ul>
 		</li>
           <li><a href="#vlp">Our Virtual Learning Platform</a></li>
-          <li class="drop-down"><a href="#course">Courses & Registration</a>
+          <li class="drop-down"><a href="#course">Skills & Registration</a>
             <ul>
               <li class="drop-down"><a href="#">Web Development</a>
                 <ul>
@@ -187,7 +187,7 @@
 	  <section id="course" class="wow fadeIn">
       <div class="container">
         <header class="section-header">
-          <h3>Courses</h3>
+          <h3>We Offer Training In</h3>
         </header>
 
         <div class="row row-eq-height justify-content-center">
@@ -197,7 +197,7 @@
                 <i class="fa fa-paint-brush"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Front-End </h5></br>
-				<p style="text-align:left;">Front-end development is mostly focused on what some may coin the "client side" of development. Front-end developers will be engaged in analyzing code, design, and debugging applications along with ensuring a seamless user experience. You manage what people first see in their browser. As a front-end developer you are responsible for the look, feel and ultimately the design of the site.</br></br><b>Course Outline:</b></p>
+				<p style="text-align:left;">Front-end development is mostly focused on what some may coin the "client side" of development. You manage what people first see in their browser. As a front-end developer you are responsible for the look, feel and ultimately the design of the site.</br></br><b>Course Outline:</b></p>
                 <ul style="text-align:left; font-size:14px">
 					<li>Languages: HTML5, CSS/CSS3, JavaScript, jQuery and AJAX</li>
 					<li>Web Framework: Bootstrap</li>
@@ -206,10 +206,10 @@
 					<li>2 months hands-on LIVE project</li>
 					<li>1 Mentor</li><br>
 					<li>Host your own website using Github-pages</li>
-					<li>Learn how to build a professional Resume using ShareLaTeX</li></ul>
+					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
-					<p style="text-align:left;"><b>Duration: Max-6 months and Min-4 months</br>Pricing: ₹2000 (for the entire module)</br></br>Batches starting from 9 June, 2019</b></p>
-                <a href="https://imjo.in/WWw9KD" class="register" id="register" target="_blank">Register</a>
+					<p style="text-align:left;"><b>Pricing: ₹2000</br></br>Batches starting from 9 June, 2019</b></p>
+                <a href="https://imjo.in/WWw9KD" class="register" id="register" target="_blank">Register Here!</a>
 
               </div>
             </div>
@@ -220,19 +220,19 @@
                 <i class="fa fa-database"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Back-End </h5></br>
-				<p style="text-align:left;">Back-end Development refers to the server side of development where you are primarily focused on how the site works. Monitoring functionality of the site will be your primary responsibility. Code written by back-end developers is what communicates the database information to the browser and can’t be seen easily with the eye.</br></br><b>Course Outline:</b></p>
+				<p style="text-align:left;">Back-end Development refers to the server side of development where you are primarily focused on how the site works. Code written by back-end developers is what communicates the database information to the browser and can’t be seen with eye.</br></br><b>Course Outline:</b></p>
 				<ul style="text-align:left; font-size:14px">
-					<li>Languages: PHP, MySQL, JSON and JavaScript</li>
+					<li>Languages: PHP, MySQL and JavaScript</li>
 					<li>Web Framework: Laravel</li>
 					<li>Content Management System: Drupal</li>
 					<li>10 Problem Statements to work-on</li>
 					<li>2 months hands-on LIVE project</li>
 					<li>1 Mentor</li><br>
 					<li>Learn Freenom and AwardSpace Integration</li>
-					<li>Learn how to build a professional Resume using ShareLaTeX</li></ul>
+					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
-					<p style="text-align:left;"><b>Duration: Max-6 months and Min-4 months</br>Pricing: ₹3000 (for entire module)</br></br>Batches starting from 9 June, 2019</b></p>
-                <a href="https://imjo.in/ppBz2K" class="register" id="register" target="_blank">Register</a>
+					<p style="text-align:left;"><b>Pricing: ₹3000</br></br>Batches starting from 9 June, 2019</b></p>
+                <a href="https://imjo.in/ppBz2K" class="register" id="register" target="_blank">Register Here!</a>
               </div>
             </div>
           </div>
@@ -354,17 +354,16 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 footer-info">
-            <h3>ABOUT</h3>
-            <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost.</br></br>
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>ABOUT</h4>
+            <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost.</br>
 			CodeBinary's own Virtual Learning Platform is a rich-UI portal that makes learning-in-process quick and efficient.</p>
           </div>
 
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><a href="#home">Home</a></li>
-              <li><a href="https://community.codebinary.in/"target="_blank">Our Community</a></li>
+              <li><a href="https://community.codebinary.in/"target="_blank">CodeBinary Community</a></li>
               <li><a href="terms-of-service.html" target="_blank">Terms of Service</a></li>
               <li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
             </ul>
@@ -373,26 +372,29 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Dwarka Sector 7 Extension<br>
+              Dwarka, Sector 7 Extension<br>
               New Delhi, 110045<br>
-              India <br>
+              India<br>
               <strong>Email:</strong> contact@codebinary.in<br>
             </p>
-
-            <div class="social-links">
-              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
-			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
-			  <a href="https://codebinary.slack.com/" class="slack" target="_blank"><i class="fa fa-slack"></i></a>
-            </div>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Our Partners</h4>
             <div class="logo float-left">
-			<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="SproutingWingsDigitalMarketing_logo" ></a>
+			<a href="#" class="scrollto"><img src="img/kalpanaa.jpg" style="height:100px; width:100px; float:center;" alt="Kalpanaa" ></a>
+			<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:100px; width:100px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
 			</div>
           </div>
+		  
+		  <div class="col-lg-12 col-md-12 footer-contact text-center">
+			<div class="social-links">
+              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
+			  <a href="https://codebinary.slack.com/" class="slack" target="_blank"><i class="fa fa-slack"></i></a>
+            </div>
+		  </div>
 
         </div>
       </div>
