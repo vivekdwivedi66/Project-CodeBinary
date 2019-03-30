@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Project CodeBinary</title>
+  <title>Project CodeBinary: A Skill Training Programme</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="CodeBinary" name="author">
-  <meta content="Project CodeBinary, Virtual Learning Program, Virtual Learning Platform, Industrial Skill, Campus Ambassador, Training, Online Courses, Live Project, Internship" name="keywords">
-  <meta content="An initiative to impart industrial skills and knowledge to budding workforce of tomorrow at minimal and affordable subscription cost" name="description">
+  <meta content="CodeBinary Private Limited" name="author">
+  <meta content="CodeBinary, Project CodeBinary, Virtual Learning Program, Virtual Learning Platform, Industrial Skill, Campus Ambassador, Skill Training, Live Project, Mentor, Internship" name="keywords">
+  <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost." name="description">
   
+  <link rel="canonical" href="http://codebinary.in/" />
   <link rel="shortcut icon" href="img/codebinary_trans.png" />
 
   <!-- Google Fonts -->
@@ -39,7 +40,6 @@
 </head>
 
 <body>
-
   <header id="header" class="fixed-top">
     <div class="container">
       <div class="logo float-left">
@@ -85,10 +85,10 @@
       </div>
 
       <div class="intro-info">
-        <h2>Introducing<br><span>Project CodeBinary</span><br><small>A Virtual Learning Program<small></h2>
+        <h1>Introducing<br><span>Project CodeBinary</span><br><small>A Virtual Learning Program<small></h1>
         <div>
-          <a href="https://vlp.codebinary.in/" class="btn-get-started" target="_blank">Take Me There!</a></br>
-		   <a href="#course" class="btn-services scrollto">View All Courses (starting from ₹2000)</a>
+          <a href="#what" class="btn-get-started">Know More</a></br>
+		  <a href="#course" class="btn-services scrollto">View All Courses (starting from ₹2000)</a>
         </div>
       </div>
 
@@ -137,7 +137,7 @@
           </div>
 
           <div class="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
-            <img src="img/code-bg.png" style="float:right;" class="img-fluid" alt="">
+            <img src="img/code-bg.png" style="float:right;" class="img-fluid" alt="Binary">
           </div>
         </div>
       </div>
@@ -153,7 +153,7 @@
 		
         <div class="row about-extra">
           <div class="col-lg-6 wow fadeInUp">
-            <img src="img/book-bg.png" class="img-fluid" alt="">
+            <img src="img/book-bg.png" class="img-fluid" alt="Book">
           </div>
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
             <h4>All for one, One for all</h4>
@@ -168,7 +168,7 @@
 
         <div class="row about-extra">
           <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
-            <img src="img/chart-bg.png" style="float:right;" class="img-fluid" alt="">
+            <img src="img/chart-bg.png" style="float:right;" class="img-fluid" alt="Chart">
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
@@ -197,9 +197,10 @@
                 <i class="fa fa-paint-brush"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Front-End </h5></br>
-				<p style="text-align:left;">Front-end development is mostly focused on what some may coin the "client side" of development. You manage what people first see in their browser. As a front-end developer you are responsible for the look, feel and ultimately the design of the site.</br></br><b>Course Outline:</b></p>
+				<p style="text-align:left;">Front-end development is mostly focused on what some may coin the "client side" of development. You manage what people first see in their browser. As a front-end developer you are responsible for the look, feel and ultimately the design of the site.<p>
+				<p style="text-align:left;"><b>Course Outline:</b></p>
                 <ul style="text-align:left; font-size:14px">
-					<li>Languages: HTML5, CSS/CSS3, JavaScript, jQuery and AJAX</li>
+					<li>Languages: HTML, CSS, JavaScript and jQuery</li>
 					<li>Web Framework: Bootstrap</li>
 					<li>Content Management System: Wordpress</li>
 					<li>10 Problem Statements to work-on</li>
@@ -208,7 +209,7 @@
 					<li>Host your own website using Github-pages</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
-					<p style="text-align:left;"><b>Pricing: ₹2000</br></br>Batches starting from 9 June, 2019</b></p>
+				<p style="text-align:left;"><b>Pricing: ₹2000</b><br><b>Duration: 3 months</b></p>
                 <a href="https://imjo.in/WWw9KD" class="register" id="register" target="_blank">Register Here!</a>
 
               </div>
@@ -220,18 +221,19 @@
                 <i class="fa fa-database"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Back-End </h5></br>
-				<p style="text-align:left;">Back-end Development refers to the server side of development where you are primarily focused on how the site works. Code written by back-end developers is what communicates the database information to the browser and can’t be seen with eye.</br></br><b>Course Outline:</b></p>
+				<p style="text-align:left;">Back-end Development refers to the server side of development where you are primarily focused on how the site works. Code written by back-end developers is what communicates the database information to the browser and can’t be seen with eye.</p>
+				<p style="text-align:left;"><b>Course Outline:</b></p>
 				<ul style="text-align:left; font-size:14px">
-					<li>Languages: PHP, MySQL and JavaScript</li>
+					<li>Languages: PHP, MySQL, JSON and AJAX</li>
 					<li>Web Framework: Laravel</li>
-					<li>Content Management System: Drupal</li>
+					<li>Content Management System: Wordpress</li>
 					<li>10 Problem Statements to work-on</li>
 					<li>2 months hands-on LIVE project</li>
 					<li>1 Mentor</li><br>
 					<li>Learn Freenom and AwardSpace Integration</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
-					<p style="text-align:left;"><b>Pricing: ₹3000</br></br>Batches starting from 9 June, 2019</b></p>
+					<p style="text-align:left;"><b>Pricing: ₹3000</b></br><b>Duration: 4 months</b></p>
                 <a href="https://imjo.in/ppBz2K" class="register" id="register" target="_blank">Register Here!</a>
               </div>
             </div>
@@ -354,7 +356,7 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 footer-links">
+          <div class="col-lg-5 col-md-6 footer-links">
             <h4>ABOUT</h4>
             <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost.</br>
 			CodeBinary's own Virtual Learning Platform is a rich-UI portal that makes learning-in-process quick and efficient.</p>
@@ -363,9 +365,9 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><a href="https://community.codebinary.in/"target="_blank">CodeBinary Community</a></li>
-              <li><a href="terms-of-service.html" target="_blank">Terms of Service</a></li>
               <li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
+              <li><a href="terms-of-service.html" target="_blank">Terms of Service</a></li>
+			  <li><a href="acceptable-use-policy.html"target="_blank">Acceptable Use Policy</a></li>
             </ul>
           </div>
 
@@ -380,12 +382,27 @@
 
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-newsletter">
+          <div class="col-lg-2 col-md-6 footer-newsletter">
             <h4>Our Partners</h4>
-            <div class="logo float-left">
-			<a href="#" class="scrollto"><img src="img/kalpanaa.jpg" style="height:100px; width:100px; float:center;" alt="Kalpanaa" ></a>
-			<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:100px; width:100px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
-			</div>
+			
+			<div class="owl-carousel testimonials-carousel wow fadeInUp">
+              <div class="testimonial-item">
+				<a href="#" class="scrollto"><img src="img/kalpanaa.jpg" style="height:120px; width:120px; float:center;" alt="Kalpanaa" ></a>
+              </div>
+			  <div class="testimonial-item">
+				<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+              </div>
+			  <div class="testimonial-item">
+				<a href="https://www.instamojo.com/" class="scrollto"><img src="img/instamojo.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+              </div>
+			  <div class="testimonial-item">
+				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+              </div>
+			  <div class="testimonial-item">
+				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+              </div>
+			  
+            </div>
           </div>
 		  
 		  <div class="col-lg-12 col-md-12 footer-contact text-center">
@@ -402,13 +419,26 @@
   
 	<div class="container">
       <div class="copyright">
-        &copy; Copyright 2019 <strong>CodeBinary</strong>. All Rights Reserved
+        &copy; Copyright 2019 <strong>CodeBinary Private Limited</strong>.
       </div>
     </div>
   </footer>
-
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+  
   <div id="preloader"></div> 
+  
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c9c7c531de11b6e3b0598c9/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
@@ -427,6 +457,5 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
-
 </body>
 </html>
