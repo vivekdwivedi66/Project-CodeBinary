@@ -181,6 +181,7 @@
             </p>
           </div>
         </div>
+		
       </div>
 	  </section>
 	  
@@ -242,12 +243,12 @@
       </div>
     </section></br></br></br>
 	  
-	<section>
+	<section id="services">
 	  <header class="section-header" id="why">
           <h3>Why Choose Us?</h3>
       </header>
 	  
-      <div class="container" id="services">
+      <div class="container">
         <div class="row">
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
