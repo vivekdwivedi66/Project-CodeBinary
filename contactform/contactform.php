@@ -25,7 +25,7 @@ $headers = 'From: '.$email_from."\r\n".
 'X-Mailer: PHP/' . phpversion();
 mail($email_to, $subject, $email_message, $headers);  
 
-echo "Thank You for contacting us. We will get to you soon.";
+echo "Thank You for contacting us. We will get back to you soon.";
 
 }
 ?>

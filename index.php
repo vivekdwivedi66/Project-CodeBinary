@@ -48,15 +48,16 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-          <li class="drop-down"><a href="#what">About</a>
+          <li class="drop-down"><a href="">About</a>
 			<ul>
+				 <li><a href="#what">Project CodeBinary</a></li>
                 <li><a href="https://community.codebinary.in/">CodeBinary Community</a></li>
             </ul>
 		</li>
           <li><a href="#vlp">Our Virtual Learning Platform</a></li>
-          <li class="drop-down"><a href="#course">Skills & Registration</a>
+          <li class="drop-down"><a href="#">Skills & Registration</a>
             <ul>
-              <li class="drop-down"><a href="#">Web Development</a>
+              <li class="drop-down"><a href="#course">Web Development</a>
                 <ul>
                   <li><a href="#fed">Front-End Development</a></li>
                   <li><a href="#bed">Back-End Development</a></li>
@@ -211,7 +212,7 @@
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
 				<p style="text-align:left;"><b>Pricing: ₹2000</b><br><b>Duration: 3 months</b></p>
-                <a href="https://imjo.in/WWw9KD" class="register" id="register" target="_blank">Register Here!</a>
+                <a href="https://imjo.in/WWw9KD" class="register" id="register">Register Here!</a>
 
               </div>
             </div>
@@ -235,7 +236,7 @@
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 					
 					<p style="text-align:left;"><b>Pricing: ₹3000</b></br><b>Duration: 4 months</b></p>
-                <a href="https://imjo.in/ppBz2K" class="register" id="register" target="_blank">Register Here!</a>
+                <a href="https://imjo.in/ppBz2K" class="register" id="register">Register Here!</a>
               </div>
             </div>
           </div>
@@ -366,9 +367,9 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><a href="privacy-policy.html" target="_blank">Privacy Policy</a></li>
-              <li><a href="terms-of-service.html" target="_blank">Terms of Service</a></li>
-			  <li><a href="acceptable-use-policy.html"target="_blank">Acceptable Use Policy</a></li>
+              <li><a href="privacy-policy.html">Privacy Policy</a></li>
+              <li><a href="terms-of-service.html">Terms of Service</a></li>
+			  <li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
             </ul>
           </div>
 
@@ -408,9 +409,9 @@
 		  
 		  <div class="col-lg-12 col-md-12 footer-contact text-center">
 			<div class="social-links">
-              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
-			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
-			  <a href="https://codebinary.slack.com/" class="slack" target="_blank"><i class="fa fa-slack"></i></a>
+              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin"><i class="fa fa-linkedin"></i></a>
+			  <a href="https://github.com/projectcodebinary" class="github"><i class="fa fa-github"></i></a>
+			  <a href="https://codebinary.slack.com/" class="slack"><i class="fa fa-slack"></i></a>
             </div>
 		  </div>
 
