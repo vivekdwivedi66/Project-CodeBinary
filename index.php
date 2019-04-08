@@ -5,10 +5,9 @@
   <title>Project CodeBinary: A Skill Training Programme</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="CodeBinary Private Limited" name="author">
-  <meta content="CodeBinary, Project CodeBinary, Virtual Learning Program, Virtual Learning Platform, Industrial Skill, Campus Ambassador, Skill Training, Live Project, Mentor, Internship" name="keywords">
-  <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost." name="description">
+  <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce at a minimal and affordable subscription cost" name="description">
   
-  <link rel="canonical" href="http://codebinary.in/" />
+  <link rel="canonical" href="https://codebinary.in" />
   <link rel="shortcut icon" href="img/codebinary_trans.png" />
 
   <!-- Google Fonts -->
@@ -389,19 +388,19 @@
 			
 			<div class="owl-carousel testimonials-carousel wow fadeInUp">
               <div class="testimonial-item">
-				<a href="#" class="scrollto"><img src="img/kalpanaa.jpg" style="height:120px; width:120px; float:center;" alt="Kalpanaa" ></a>
+				<a href="https://kalpanaa.codebinary.in/" class="scrollto"><img src="img/kalpanaa.jpg" style="height:120px; width:120px; float:center;" alt="Kalpanaa" target="_blank" ></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.instamojo.com/" class="scrollto"><img src="img/instamojo.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.instamojo.com/" class="scrollto"><img src="img/instamojo.png" style="height:120px; width:120px; float:center;" alt="Instamojo" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Twak.to" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Namecheap" target="_blank"></a>
               </div>
 			  
             </div>
@@ -409,9 +408,9 @@
 		  
 		  <div class="col-lg-12 col-md-12 footer-contact text-center">
 			<div class="social-links">
-              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin"><i class="fa fa-linkedin"></i></a>
-			  <a href="https://github.com/projectcodebinary" class="github"><i class="fa fa-github"></i></a>
-			  <a href="https://codebinary.slack.com/" class="slack"><i class="fa fa-slack"></i></a>
+              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+			  <a href="https://www.instagram.com/project.codebinary/" target="_blank"><i class="fa fa-instagram"></i></a>
+			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
             </div>
 		  </div>
 
