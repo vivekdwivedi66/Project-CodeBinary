@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Project CodeBinary: A Skill Training Programme</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="CodeBinary Private Limited" name="author">
+  <meta content="CodeBinary Initiatives" name="author">
   <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce at a minimal and affordable subscription cost" name="description">
   
   <link rel="canonical" href="https://codebinary.in" />
@@ -38,7 +38,7 @@
 
 </head>
 
-<body style="text-align: justify; text-justify: inter-word;">
+<body>
   <header id="header" class="fixed-top">
     <div class="container">
       <div class="logo float-left">
@@ -106,23 +106,23 @@
               <p class="description">Learn skills and languages that comprise a large proportion of industrial demand and employment roles.</p>
             </div></br>
             <div class="icon-box">
+              <div class="icon"><i class="fa fa-linkedin"></i></div>
+              <h4 class="title"><a href="">Employment-oriented Community</a></h4>
+              <p class="description">Get introduced to platforms and technologies that are employment-oriented like LinkedIn, AIESEC and many more.</p>
+            </div>
+			
+          </div>
+          <div class="col-lg-6 background order-lg-2 order-1">
+		  <div class="icon-box">
               <div class="icon"><i class="fa fa-cube"></i></div>
               <h4 class="title"><a href="">Multifaceted Problem Assignments</a></h4>
               <p class="description">Increase their credibility by trying hands on problems statement that covers a huge range of dependencies and features.</p>
             </div></br>
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-linkedin"></i></div>
-              <h4 class="title"><a href="">Employment-oriented Community</a></h4>
-              <p class="description">Get introduced to platforms and technologies that are employment-oriented like LinkedIn, AIESEC and many more.</p>
-            </div></br>
-			<div class="icon-box">
+		   <div class="icon-box">
               <div class="icon"><i class="fa fa-rocket"></i></div>
               <h4 class="title"><a href="">Live Projects</a></h4>
               <p class="description">Start their after-learning phase with CodeBinary sponsored live projects and take their first steps towards being hired.</p>
-            </div></br>
-          </div>
-          <div class="col-lg-6 background order-lg-2 order-1">
-            <img src="img/code-bg.png" style="float:right;" class="img-fluid" alt="Binary">
+            </div>
           </div>
         </div>
       </div>
@@ -172,7 +172,7 @@
 					<li>Introduction to Github-pages</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 				<p style="text-align:left;"><b>Pricing: ₹2000</b></p>
-                <a href="https://imjo.in/WWw9KD" class="register" id="register">Register Here!</a>
+                <a href="register.php" class="register" id="register">Register Here!</a>
               </div>
             </div>
           </div>
@@ -193,7 +193,7 @@
 					<li>Learn Freenom and AwardSpace Integration</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
 				<p style="text-align:left;"><b>Pricing: ₹3000</b></p>
-                <a href="https://imjo.in/ppBz2K" class="register" id="register">Register Here!</a>
+                <a href="register.php" class="register" id="register">Register Here!</a>
               </div>
             </div>
           </div>
@@ -275,6 +275,21 @@
         <div class="row">
 		<div class="col-lg-2"></div>
           <div class="col-lg-8" style="float:center">
+			<div class="row">
+              <div class="col-md-6 info">
+                <i class="ion-ios-time"></i>
+                <h4> &nbsp;&nbsp;&nbsp;<?php
+    date_default_timezone_set('Asia/Kolkata');
+    $date = date_create('2019-01-01');
+    echo floor((time()-date_timestamp_get($date))/3600);
+?> <small>Hours of Support</small></h4>
+              </div>
+              <div class="col-md-6 info">
+                <i class="ion-female"></i>
+                <h4> &nbsp;&nbsp;&nbsp; 1/3<sup>rd</sup> <small>Women Workforce</small></h4>
+              </div>
+            </div></br>
+			
             <div class="form">
               <div id="sendmessage">Your message has been sent. Thank you!</div>
               <div id="errormessage"></div>
@@ -364,7 +379,7 @@
 		  <div class="col-lg-12 col-md-12 footer-contact text-center">
 			<div class="social-links">
               <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
-			  <a href="https://www.instagram.com/project.codebinary/" target="_blank"><i class="fa fa-instagram"></i></a>
+			  <a href="https://www.instagram.com/codebinary.initiatives/" target="_blank"><i class="fa fa-instagram"></i></a>
 			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
             </div>
 		  </div>
@@ -375,7 +390,7 @@
   
 	<div class="container">
       <div class="copyright">
-        &copy; Copyright 2019 <strong>CodeBinary Private Limited</strong>.
+        A Craft by <strong>CodeBinary Initiatives</strong>.
       </div>
     </div>
   </footer>

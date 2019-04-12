@@ -5,4 +5,5 @@ Disallow: /contactform
 Disallow: /js
 Disallow: /css
 Disallow: /lib
+Disaalow: /settings
 Sitemap: https://codebinary.in/sitemap.xml
