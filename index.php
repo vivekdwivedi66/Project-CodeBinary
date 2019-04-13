@@ -51,12 +51,14 @@
 		  <li><a href="https://community.codebinary.in/">Our Community</a></li>
           <li class="drop-down"><a href="#">Skills & Registration</a>
             <ul>
+			
               <li class="drop-down"><a href="#course">Web Development</a>
                 <ul>
                   <li><a href="#fed">Front-End Development</a></li>
                   <li><a href="#bed">Back-End Development</a></li>
                 </ul>
               </li>
+			   <li><a href="register.php">Register Now</a></li>
             </ul>
           </li>
 		  <li><a href="#why">Why Us</a></li>
@@ -312,6 +314,7 @@
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
+				
                 <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
               </form>
             </div>

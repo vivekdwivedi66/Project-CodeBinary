@@ -84,7 +84,7 @@
 
 </head>
 
-<body>
+<body onload="createCaptcha()">
     <section id="contact">
       <div class="container-fluid">
         <div class="section-header">
@@ -92,10 +92,10 @@
         </div>
 
         <div class="row">
-		  <div class="col-lg-3"></div>
-          <div class="col-lg-6">
+		  <div class="col-lg-2"></div>
+          <div class="col-lg-8">
             <div class="form">
-              <form action="" method="post">
+              <form action="" method="post" onsubmit="validateCaptcha()" id="form" >
                 <div class="form-row">
                   <div class="form-group col-lg-6">
                     <input type="text" name="name" class="form-control" placeholder="Name" required />
@@ -109,17 +109,16 @@
                 </div>
 				<div class="form-row">
                   <div class="form-group col-lg-4">
-                    <input type="text" name="degree" class="form-control" placeholder="Degree" required />
+                    <input type="text" name="degree" class="form-control" placeholder="Degree (e.g. B.Tech)" required />
                   </div>
                   <div class="form-group col-lg-4">
-                    <input type="text" class="form-control" name="major" placeholder="Major" required />
+                    <input type="text" class="form-control" name="major" placeholder="Major (e.g. CSE)" required />
                   </div>
 				   <div class="form-group col-lg-4">
-                    <input type="text" class="form-control" name="year" placeholder="Year" required />
+                    <input type="text" class="form-control" name="year" placeholder="Graduation Year" required />
                   </div>
                 </div>
 				<div class="form-row">
-				 
                   <div class="form-group col-lg-6">
                     <input type="text" name="ca_code" class="form-control" placeholder="Campus Ambassador ID" required />
                   </div>
@@ -129,13 +128,20 @@
 						<option value="Back-End">Web Development: Back-End</option>
 					</select>
                   </div>
-                </div></br></br>
-                <div class="text-center"><button type="submit" title="Register">Register & Proceed to Pay</button>
+                </div>
+				<div class="form-row">
+				</br>
+                  <div class="form-group col-lg-12">
+                    <div id="captcha"></div>
+					<input type="text" placeholder="Captcha" id="cpatchaTextBox"/>
+                  </div> 
+                </div></br>
+				<div class="text-center"><button type="submit" title="Register">Register & Proceed to Pay</button></div>
               </form>
 				</div>
 			</div>
 		  </div>
-		  <div class="col-lg-3"></div>
+		  <div class="col-lg-2"></div>
       </div>
     </section><!-- #contact -->
 
