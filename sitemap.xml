@@ -3,26 +3,33 @@
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://codebinary.in/</loc>
-  <lastmod>2019-03-30T07:53:06+00:00</lastmod>
+  <lastmod>2019-04-12T17:40:29+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://codebinary.in/register.php</loc>
+  <lastmod>2019-04-12T17:40:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://codebinary.in/privacy-policy.html</loc>
-  <lastmod>2019-03-22T14:24:12+00:00</lastmod>
+  <lastmod>2019-04-12T07:17:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://codebinary.in/terms-of-service.html</loc>
-  <lastmod>2019-03-22T14:24:15+00:00</lastmod>
+  <lastmod>2019-04-12T07:17:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://codebinary.in/acceptable-use-policy.html</loc>
-  <lastmod>2019-03-30T07:26:46+00:00</lastmod>
+  <lastmod>2019-04-12T07:17:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 

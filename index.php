@@ -4,11 +4,10 @@
   <meta charset="utf-8">
   <title>Project CodeBinary: A Skill Training Programme</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="CodeBinary Private Limited" name="author">
-  <meta content="CodeBinary, Project CodeBinary, Virtual Learning Program, Virtual Learning Platform, Industrial Skill, Campus Ambassador, Skill Training, Live Project, Mentor, Internship" name="keywords">
-  <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost." name="description">
+  <meta content="CodeBinary Initiatives" name="author">
+  <meta content="Project CodeBinary is an initiative to impart industrial skills and knowledge to the budding workforce at a minimal and affordable subscription cost" name="description">
   
-  <link rel="canonical" href="http://codebinary.in/" />
+  <link rel="canonical" href="https://codebinary.in" />
   <link rel="shortcut icon" href="img/codebinary_trans.png" />
 
   <!-- Google Fonts -->
@@ -48,51 +47,47 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-          <li class="drop-down"><a href="">About</a>
-			<ul>
-				 <li><a href="#what">Project CodeBinary</a></li>
-                <li><a href="https://community.codebinary.in/">CodeBinary Community</a></li>
-            </ul>
-		</li>
           <li><a href="#vlp">Our Virtual Learning Platform</a></li>
+		  <li><a href="https://community.codebinary.in/">Our Community</a></li>
           <li class="drop-down"><a href="#">Skills & Registration</a>
             <ul>
+			
               <li class="drop-down"><a href="#course">Web Development</a>
                 <ul>
                   <li><a href="#fed">Front-End Development</a></li>
                   <li><a href="#bed">Back-End Development</a></li>
                 </ul>
               </li>
+			   <li><a href="register.php">Register Now</a></li>
             </ul>
           </li>
-		  <li><a href="#why">Why Us?</a></li>
+		  <li><a href="#why">Why Us</a></li>
+          <li><a href="#contact">Contact Us</a></li>
 		  <li class="drop-down"><a href="">Login</a>
 		  <ul>
               <li><a href="https://vlp.codebinary.in/">Virtual Learning Platform</a></li>
 		  </ul>
 		  </li>
-          <li><a href="#contact">Contact Us</a></li>
         </ul>
-      </nav><!-- .main-nav -->
-      
+      </nav>
     </div>
   </header>
 
   <section id="intro" class="clearfix">
     <div class="container">
-
       <div class="intro-img">
-        <img src="img/intro.png" alt="CodeBinary_intro" style="float:center" class="img-fluid">
+        <img src="img/intro.png" alt="CodeBinary_intro" class="img-fluid">
       </div>
-
       <div class="intro-info">
         <h1>Introducing<br><span>Project CodeBinary</span><br><small>A Virtual Learning Program<small></h1>
         <div>
-          <a href="#what" class="btn-get-started">Know More</a></br>
-		  <a href="#course" class="btn-services scrollto">View All Courses (starting from ₹2000)</a>
+          <a href="#course" class="btn-get-started">All Training Programmes</a></br>
         </div>
+		<div>
+		<a class="btn-services scrollto"> See Also </a>
+			<a href="https://kalpanaa.codebinary.in/" target="_blank"><img src="img/kalpanaa_trans.png" alt="Kalpanaa" style="height:100px; width:100px" class="img-fluid"></a>
+		</div>
       </div>
-
     </div>
   </section>
 
@@ -100,102 +95,71 @@
     <section id="what" class="story">
       <div class="container">
         <header class="section-header">
-          <h3>What is Project CodeBinary?</h3>
-          <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost</p>
+          <h3>Project CodeBinary</h3></br>
         </header>
-
         <div class="row about-container">
 		<div class="col-lg-12 content order-lg-1 order-2">
-		<p>How can you rise up and compete when there are a huge number of global competitors? How can you stay a step ahead of the rest? The simple answer is through industrial skills training. </br><strong>Industrial skills training is a guaranteed way to not only enhance your performance but also to boost your morale and potential.</strong></br></br>
+		<p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost. With CodeBinary's Virtual Learning Program students can</p></br>
 		</div>
           <div class="col-lg-6 content order-lg-1 order-2">
-			<p>
-              With CodeBinary's Virtual Learning Program students can 
-            </p>
-            <div class="icon-box wow fadeInUp">
+            <div class="icon-box">
               <div class="icon"><i class="fa fa-steam"></i></div>
               <h4 class="title"><a href="">High Demand Industrial Skills</a></h4>
               <p class="description">Learn skills and languages that comprise a large proportion of industrial demand and employment roles.</p>
-            </div>
-
-            <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
-              <div class="icon"><i class="fa fa-cube"></i></div>
-              <h4 class="title"><a href="">Multifaceted Problem Assignments</a></h4>
-              <p class="description">Increase their credibility by trying hands on tasks and problems statement that covers a huge range of dependencies and features.</p>
-            </div>
-
-            <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+            </div></br>
+            <div class="icon-box">
               <div class="icon"><i class="fa fa-linkedin"></i></div>
               <h4 class="title"><a href="">Employment-oriented Community</a></h4>
-              <p class="description">Get introduced to platforms and technologies that are employment-oriented like LinkedIn, AIESEC, Github, ShareLaTeX and many more.</p>
+              <p class="description">Get introduced to platforms and technologies that are employment-oriented like LinkedIn, AIESEC and many more.</p>
             </div>
 			
-			<div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
+          </div>
+          <div class="col-lg-6 background order-lg-2 order-1">
+		  <div class="icon-box">
+              <div class="icon"><i class="fa fa-cube"></i></div>
+              <h4 class="title"><a href="">Multifaceted Problem Assignments</a></h4>
+              <p class="description">Increase their credibility by trying hands on problems statement that covers a huge range of dependencies and features.</p>
+            </div></br>
+		   <div class="icon-box">
               <div class="icon"><i class="fa fa-rocket"></i></div>
               <h4 class="title"><a href="">Live Projects</a></h4>
               <p class="description">Start their after-learning phase with CodeBinary sponsored live projects and take their first steps towards being hired.</p>
             </div>
           </div>
-
-          <div class="col-lg-6 background order-lg-2 order-1 wow fadeInUp">
-            <img src="img/code-bg.png" style="float:right;" class="img-fluid" alt="Binary">
-          </div>
         </div>
       </div>
     </section>
-	
+
 	<section id="vlp" class="story">
       <div class="container">
-
         <header class="section-header">
-          <h3>Our Virtual Learning Platform</h3>
-          <p>CodeBinary's own Virtual Learning Platform is a rich-UI portal that makes learning-in-process quick and efficient</p>
+          <h3>Virtual Learning Platform</h3>
         </header>
-		
         <div class="row about-extra">
-          <div class="col-lg-6 wow fadeInUp">
-            <img src="img/book-bg.png" class="img-fluid" alt="Book">
+		  <div class="col-lg-6">
+			<img src="img/vlp.jpg" alt="VLP" class="img-fluid">
           </div>
-          <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
+		  <div class="col-lg-6">
+			<p>CodeBinary's own Virtual Learning Platform is a rich-UI portal that makes learning-in-process quick and efficient</p>
+
             <h4>All for one, One for all</h4>
-            <p>
-              We believe in hassle-free access. Find your books, assignments, projects, scores and certificates all at one page.
-            </p>
-            <p>
-			  Our platform ensures easy access to all resources, data and reports just a scroll away. Experience it to believe it.
-            </p>
+            <p>We believe in hassle-free access. Our platform ensures easy access to all your resources, data and reports just a scroll away. Experience it to believe it.</p>
+			
+			<h4>Transparency. Know where you stand</h4>
+            <p>The Virtual Learning Platform uses varied performance metrics to generate performance reports and graphic-rich charts. Know where you stand.</p>
           </div>
         </div>
-
-        <div class="row about-extra">
-          <div class="col-lg-6 wow fadeInUp order-1 order-lg-2">
-            <img src="img/chart-bg.png" style="float:right;" class="img-fluid" alt="Chart">
-          </div>
-
-          <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4>Transparency. Know where you stand</h4>
-            <p>
-             The Virtual Learning Platform uses varied performance metrics to generate performance reports and graphic-rich charts.
-            </p>
-            <p>
-			  Know how well you have performed during the entire course period, your strengths and weakness. Know where you stand.
-            </p>
-          </div>
-        </div>
-		
       </div>
 	  </section>
 	  
-	  <section id="course" class="wow fadeIn">
+	  <section id="course">
       <div class="container">
         <header class="section-header">
-          <h3>We Offer Training In</h3>
+          <h3>Available Skill Training</h3>
         </header>
-
         <div class="row row-eq-height justify-content-center">
-
           <div class="col-lg-6 mb-6" id="fed">
-            <div class="card wow bounceInUp">
+            <div class="card">
                 <i class="fa fa-paint-brush"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Front-End </h5></br>
@@ -205,21 +169,18 @@
 					<li>Languages: HTML, CSS, JavaScript and jQuery</li>
 					<li>Web Framework: Bootstrap</li>
 					<li>Content Management System: Wordpress</li>
-					<li>10 Problem Statements to work-on</li>
-					<li>2 months hands-on LIVE project</li>
-					<li>1 Mentor</li><br>
-					<li>Host your own website using Github-pages</li>
+					<li>8 Problem Statements to work-on</li>
+					<li>1 months hands-on LIVE project</li></br>
+					<li>Introduction to Github-pages</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
-					
-				<p style="text-align:left;"><b>Pricing: ₹2000</b><br><b>Duration: 3 months</b></p>
-                <a href="https://imjo.in/WWw9KD" class="register" id="register">Register Here!</a>
-
+				<p style="text-align:left;"><b>Pricing: ₹2000</b></p>
+                <a href="register.php" class="register" id="register">Register Here!</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-6 mb-6" id="bed">
-            <div class="card wow bounceInUp">
+            <div class="card">
                 <i class="fa fa-database"></i>
               <div class="card-body">
                 <h5 class="card-title">Web Development: Back-End </h5></br>
@@ -227,82 +188,77 @@
 				<p style="text-align:left;"><b>Course Outline:</b></p>
 				<ul style="text-align:left; font-size:14px">
 					<li>Languages: PHP, MySQL, JSON and AJAX</li>
-					<li>Web Framework: Laravel</li>
+					<li>Web Framework: Bootstrap</li>
 					<li>Content Management System: Wordpress</li>
-					<li>10 Problem Statements to work-on</li>
-					<li>2 months hands-on LIVE project</li>
-					<li>1 Mentor</li><br>
+					<li>8 Problem Statements to work-on</li>
+					<li>2 months hands-on LIVE project</li></br>
 					<li>Learn Freenom and AwardSpace Integration</li>
 					<li>Learn how to build a professional Resume using ShareLaTeX, and many more</li></ul>
-					
-					<p style="text-align:left;"><b>Pricing: ₹3000</b></br><b>Duration: 4 months</b></p>
-                <a href="https://imjo.in/ppBz2K" class="register" id="register">Register Here!</a>
+				<p style="text-align:left;"><b>Pricing: ₹3000</b></p>
+                <a href="register.php" class="register" id="register">Register Here!</a>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section></br></br></br>
+    </section></br>
 	  
 	<section id="services">
 	  <header class="section-header" id="why">
           <h3>Why Choose Us?</h3>
       </header>
-	  
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5 offset-lg-1">
             <div class="box">
               <div class="icon"><i class="ion-ios-clock-outline" style="color: #ff689b;"></i></div>
               <h4 class="title"><a href="">Flexible Course Duration</a></h4>
               <p class="description">Every student has it's own learning pace. So we have kept the course duration flexible to suit everyone.</p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5">
             <div class="box">
               <div class="icon"><i class="ion-ios-bookmarks-outline" style="color: #e9bf06;"></i></div>
               <h4 class="title"><a href="">E-books and reference notes</a></h4>
               <p class="description">Get access to your books and references 24x7, anywhere and anytime. It's all in the clouds, just a click away.</p>
             </div>
           </div>
-
-          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5 offset-lg-1">
             <div class="box">
               <div class="icon"><i class="ion-ios-person-outline" style="color: #3fcdc7;"></i></div>
               <h4 class="title"><a href="">Mentor Assistance</a></h4>
               <p class="description">We believe learning is fun when you have people beside to support you. A mentor throughout your course duration. </p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5">
             <div class="box">
               <div class="icon"><i class="ion-ios-paper-outline" style="color:#41cf2e;"></i></div>
               <h4 class="title"><a href=""></a>Multifaceted Tasks </h4>
               <p class="description">Test your learning with assignments and problems statements, crafted by professionals over the world.</p>
             </div>
           </div>
-
-          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5 offset-lg-1">
             <div class="box">
               <div class="icon"><i class="ion-ios-analytics-outline" style="color: #d6ff22;"></i></div>
               <h4 class="title"><a href="">Performance Reports</a></h4>
               <p class="description">Are you doing good? Are you doing it right? All your queries will be answered by rich metric based reports.</p>
             </div>
           </div>
-          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+          <div class="col-md-6 col-lg-5">
             <div class="box">
               <div class="icon"><i class="ion-ios-world-outline" style="color: #4680ff;"></i></div>
               <h4 class="title"><a href="">Hands-on Live Projects</a></h4>
               <p class="description">Take your first steps towards being hired. Work on CodeBinary sponsored projects that are LIVE and RUNNING.</p>
             </div>
           </div>
-		  <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+		  <div class="col-md-6 col-lg-5 offset-lg-1">
             <div class="box">
               <div class="icon"><i class="ion-ios-paperplane-outline" style="color: #ff689b;"></i></div>
               <h4 class="title"><a href="">Work With Us</a></h4>
               <p class="description">We are always looking for creative and hard working people to have on-board. Tell us what drives you?</p>
             </div>
           </div>
-		  <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+		  <div class="col-md-6 col-lg-5">
             <div class="box">
               <div class="icon"><i class="ion-ios-lightbulb-outline" style="color: #e9bf06;"></i></div>
               <h4 class="title"><a href="">An Idea? WOW!</a></h4>
@@ -318,9 +274,24 @@
         <div class="section-header">
           <h3>Contact Us</h3>
         </div>
-        <div class="row wow fadeInUp">
+        <div class="row">
 		<div class="col-lg-2"></div>
           <div class="col-lg-8" style="float:center">
+			<div class="row">
+              <div class="col-md-6 info">
+                <i class="ion-ios-time"></i>
+                <h4> &nbsp;&nbsp;&nbsp;<?php
+    date_default_timezone_set('Asia/Kolkata');
+    $date = date_create('2019-01-01');
+    echo floor((time()-date_timestamp_get($date))/3600);
+?> <small>Hours of Support</small></h4>
+              </div>
+              <div class="col-md-6 info">
+                <i class="ion-female"></i>
+                <h4> &nbsp;&nbsp;&nbsp; 1/3<sup>rd</sup> <small>Women Workforce</small></h4>
+              </div>
+            </div></br>
+			
             <div class="form">
               <div id="sendmessage">Your message has been sent. Thank you!</div>
               <div id="errormessage"></div>
@@ -343,6 +314,7 @@
                   <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                   <div class="validation"></div>
                 </div>
+				
                 <div class="text-center"><button type="submit" title="Send Message">Send Message</button></div>
               </form>
             </div>
@@ -387,21 +359,21 @@
           <div class="col-lg-2 col-md-6 footer-newsletter">
             <h4>Our Partners</h4>
 			
-			<div class="owl-carousel testimonials-carousel wow fadeInUp">
+			<div class="owl-carousel testimonials-carousel">
               <div class="testimonial-item">
-				<a href="#" class="scrollto"><img src="img/kalpanaa.jpg" style="height:120px; width:120px; float:center;" alt="Kalpanaa" ></a>
+				<a href="https://kalpanaa.codebinary.in/" class="scrollto"><img src="img/kalpanaa.jpg" style="height:120px; width:120px; float:center;" alt="Kalpanaa" target="_blank" ></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.sproutingwingsdigitalmarketing.com/" class="scrollto"><img src="img/spdm.jpeg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.instamojo.com/" class="scrollto"><img src="img/instamojo.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.instamojo.com/" class="scrollto"><img src="img/instamojo.png" style="height:120px; width:120px; float:center;" alt="Instamojo" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Twak.to" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
-				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Sprouting Wings Digital Marketing" ></a>
+				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Namecheap" target="_blank"></a>
               </div>
 			  
             </div>
@@ -409,9 +381,9 @@
 		  
 		  <div class="col-lg-12 col-md-12 footer-contact text-center">
 			<div class="social-links">
-              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin"><i class="fa fa-linkedin"></i></a>
-			  <a href="https://github.com/projectcodebinary" class="github"><i class="fa fa-github"></i></a>
-			  <a href="https://codebinary.slack.com/" class="slack"><i class="fa fa-slack"></i></a>
+              <a href="https://www.linkedin.com/company/codebinary/" class="linkedin" target="_blank"><i class="fa fa-linkedin"></i></a>
+			  <a href="https://www.instagram.com/codebinary.initiatives/" target="_blank"><i class="fa fa-instagram"></i></a>
+			  <a href="https://github.com/projectcodebinary" class="github" target="_blank"><i class="fa fa-github"></i></a>
             </div>
 		  </div>
 
@@ -421,7 +393,7 @@
   
 	<div class="container">
       <div class="copyright">
-        &copy; Copyright 2019 <strong>CodeBinary Private Limited</strong>.
+        A Craft by <strong>CodeBinary Initiatives</strong>.
       </div>
     </div>
   </footer>
