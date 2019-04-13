@@ -92,8 +92,8 @@
         </div>
 
         <div class="row">
-		  <div class="col-lg-2"></div>
-          <div class="col-lg-8">
+		  <div class="col-lg-3"></div>
+          <div class="col-lg-6">
             <div class="form">
               <form action="" method="post">
                 <div class="form-row">
@@ -108,17 +108,18 @@
                   <input type="text" class="form-control" name="institution" placeholder="Institution" required />
                 </div>
 				<div class="form-row">
-                  <div class="form-group col-lg-6">
+                  <div class="form-group col-lg-4">
                     <input type="text" name="degree" class="form-control" placeholder="Degree" required />
                   </div>
-                  <div class="form-group col-lg-6">
+                  <div class="form-group col-lg-4">
                     <input type="text" class="form-control" name="major" placeholder="Major" required />
+                  </div>
+				   <div class="form-group col-lg-4">
+                    <input type="text" class="form-control" name="year" placeholder="Year" required />
                   </div>
                 </div>
 				<div class="form-row">
-				  <div class="form-group col-lg-6">
-                    <input type="text" class="form-control" name="year" placeholder="Year" required />
-                  </div>
+				 
                   <div class="form-group col-lg-6">
                     <input type="text" name="ca_code" class="form-control" placeholder="Campus Ambassador ID" required />
                   </div>
@@ -128,15 +129,13 @@
 						<option value="Back-End">Web Development: Back-End</option>
 					</select>
                   </div>
-                </div>
-                
-                <div class="text-center"><button type="submit" title="Register">Register & Proceed to Pay</button></div>
+                </div></br></br>
+                <div class="text-center"><button type="submit" title="Register">Register & Proceed to Pay</button>
               </form>
-            </div>
-          </div>
-		  <div class="col-lg-2"></div>
-        </div>
-
+				</div>
+			</div>
+		  </div>
+		  <div class="col-lg-3"></div>
       </div>
     </section><!-- #contact -->
 

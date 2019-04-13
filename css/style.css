@@ -1157,11 +1157,21 @@ h6 {
 }
 
 #contact .form input,
-#contact .form select,
 #contact .form textarea {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
+}
+
+#contact .form select {
+  background-color: #0563af;
+  color: white;
+  padding: 8px;
+  border: none;
+  width: 100%;
+  font-size: 14px;
+  box-shadow: none;
+  outline: none;
 }
 
 #contact .form button[type="submit"] {
