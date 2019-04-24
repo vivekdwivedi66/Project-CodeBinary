@@ -154,7 +154,7 @@
 
           <div class="col-lg-5 col-md-6 footer-links">
             <h4>ABOUT</h4>
-            <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost.</br>
+            <p>An initiative to impart industrial skills and knowledge to the budding workforce of tomorrow at a minimal and affordable subscription cost.</br></br>
 			CodeBinary's own Virtual Learning Platform is a rich-UI portal that makes learning-in-process quick and efficient.</p>
           </div>
 
@@ -170,10 +170,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Dwarka, Sector 7 Extension<br>
-              New Delhi, 110045<br>
-              India<br>
+            FF-27,Cross Road Mall,Central Spine,</br>
+			Vidhyadhar Nagar, Jaipur</br>
+			Rajasthan, India</br><br>
               <strong>Email:</strong> contact@codebinary.in<br>
+			  <strong>Contact:</strong> +91 8826568459
             </p>
 
           </div>
@@ -195,6 +196,9 @@
 				<a href="https://www.tawk.to/" class="scrollto"><img src="img/tawk.jpg" style="height:120px; width:120px; float:center;" alt="Twak.to" target="_blank"></a>
               </div>
 			  <div class="testimonial-item">
+				<a href="https://www.ringcentral.com/" class="scrollto"><img src="img/ringcentral.png" style="height:120px; width:120px; float:center;" alt="Ring Central GLIP" target="_blank"></a>
+			  </div>
+			  <div class="testimonial-item">
 				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Namecheap" target="_blank"></a>
               </div>
 			  
@@ -215,7 +219,7 @@
   
 	<div class="container">
       <div class="copyright">
-        A Craft by <strong>CodeBinary Initiatives</strong>.
+        A Project by <strong>CodeBinary Initiatives</strong><br> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong>
       </div>
     </div>
   </footer>
