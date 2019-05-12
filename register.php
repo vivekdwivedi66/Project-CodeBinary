@@ -164,6 +164,7 @@
               <li><a href="privacy-policy.html">Privacy Policy</a></li>
               <li><a href="terms-of-service.html">Terms of Service</a></li>
 			  <li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
+			  <li><a href="https://codebinary.in/sitemap.xml"><i class="fa fa-sitemap"></i></a></li>
             </ul>
           </div>
 
@@ -172,7 +173,7 @@
             <p>
             FF-27,Cross Road Mall,Central Spine,</br>
 			Vidhyadhar Nagar, Jaipur</br>
-			Rajasthan, India</br><br>
+			Rajasthan, 302039 <br>India</br><br>
               <strong>Email:</strong> contact@codebinary.in<br>
 			  <strong>Contact:</strong> +91 8826568459
             </p>
