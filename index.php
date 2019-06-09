@@ -47,11 +47,10 @@
 
       <nav class="main-nav float-right d-none d-lg-block">
         <ul>
-          <li><a href="#vlp">Our Virtual Learning Platform</a></li>
-		  <li><a href="https://community.codebinary.in/">Our Community</a></li>
+          <li><a href="#vlp">Virtual Learning Platform</a></li>
+		  <li><a href="https://community.codebinary.in/">Community Page</a></li>
           <li class="drop-down"><a href="#">Skills & Registration</a>
             <ul>
-			
               <li class="drop-down"><a href="#course">Web Development</a>
                 <ul>
                   <li><a href="#fed">Front-End Development</a></li>
@@ -62,8 +61,13 @@
             </ul>
           </li>
 		  <li><a href="#why">Why Us</a></li>
-          <li><a href="#contact">Contact Us</a></li>
-		  <li class="drop-down"><a href="">Login</a>
+          <li class="drop-down"><a href="#">Contact</a>
+		  <ul>
+			  <li><a href="#contact">Contact Form</a></li>
+			  <li><a href="https://codebinaryinitiatives.setmore.com/">Book an Appointment</a></li>
+		  </ul>
+		  </li>
+		  <li class="drop-down"><a href="#">Login</a>
 		  <ul>
               <li><a href="https://vlp.codebinary.in/">Virtual Learning Platform</a></li>
 		  </ul>
@@ -351,9 +355,8 @@
             <p>
             FF-27,Cross Road Mall,Central Spine,</br>
 			Vidhyadhar Nagar, Jaipur</br>
-			Rajasthan, 302039 <br>India</br><br>
-              <strong>Email:</strong> contact@codebinary.in<br>
-			  <strong>Contact:</strong> +91 8826568459
+			Rajasthan, 302039 <br>India</br>
+              <strong>Email:</strong> contact@codebinary.in
             </p>
 
           </div>
@@ -380,6 +383,9 @@
 			  <div class="testimonial-item">
 				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Namecheap" target="_blank"></a>
               </div>
+			  <div class="testimonial-item">
+				<a href="https://www.setmore.com/" class="scrollto"><img src="img/setmore.png" style="height:120px; width:120px; float:center;" alt="Setmore" target="_blank"></a>
+              </div>
 			  
             </div>
           </div>
@@ -398,7 +404,7 @@
   
 	<div class="container">
       <div class="copyright">
-        A Project by <strong>CodeBinary Initiatives</strong><br> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong>
+        By <strong>CodeBinary Initiatives</strong><br> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong>
       </div>
     </div>
   </footer>

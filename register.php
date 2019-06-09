@@ -173,9 +173,8 @@
             <p>
             FF-27,Cross Road Mall,Central Spine,</br>
 			Vidhyadhar Nagar, Jaipur</br>
-			Rajasthan, 302039 <br>India</br><br>
-              <strong>Email:</strong> contact@codebinary.in<br>
-			  <strong>Contact:</strong> +91 8826568459
+			Rajasthan, 302039 <br>India</br>
+              <strong>Email:</strong> contact@codebinary.in
             </p>
 
           </div>
@@ -201,6 +200,9 @@
 			  </div>
 			  <div class="testimonial-item">
 				<a href="https://www.namecheap.com/" class="scrollto"><img src="img/namecheap.png" style="height:120px; width:120px; float:center;" alt="Namecheap" target="_blank"></a>
+              </div>
+			  <div class="testimonial-item">
+				<a href="https://www.setmore.com/" class="scrollto"><img src="img/setmore.png" style="height:120px; width:120px; float:center;" alt="Setmore" target="_blank"></a>
               </div>
 			  
             </div>
