@@ -197,10 +197,38 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="images/collab-2.png" alt="EngiGyan">
+										<img class="img-responsive" src="images/collab-4.png" alt="Entrepreneurship Development Cell, GBPUA&T Pantnagar">
 									</a>
 									<div class="desc">
 										<span class="meta">October 2019</span>
+										<h2><a href="http://ecellgbpuat.com/" target="_blank">E-Cell, Pantnagar</a></h2>
+										<p>The Entrepreneurship Development Cell of GBPUA&T Pantnagar is a student run organisation establshed with objective of creating and promoting spirit of Entrepreneurship. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-5.jpg" alt="Sree Krishna Hindu Vidhyala Matric Higher Secondary School">
+									</a>
+									<div class="desc">
+										<span class="meta">October 2019</span>
+										<h2><a href="#" target="_blank">S.K.H.V.M Higher Secondary School</a></h2>
+										<p>Sree Krishna Hindu Vidyalaya Matriculation School is situated at Kanchinagar ,Kanyakumari and gives the students the best education and learning experience. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-2.png" alt="EngiGyan">
+									</a>
+									<div class="desc">
+										<span class="meta">September 2019</span>
 										<h2><a href="https://www.engigyan.com/" target="_blank">EngiGyan</a></h2>
 										<p>EngiGyan, an online software training platform, is an up and coming startup, which aims at redesigning the education process from scratch, in turn, revolutionizing the entire learning process. </p>
 									</div>
