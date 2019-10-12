@@ -57,9 +57,8 @@
 					<div class="col-md-12">
 						<ul>
 							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="http://kalpanaa.codebinary.in/">Kalpanaa - A Women Entrepreneur Support Programme</a></li>
-							<li><a href="https://vlp.codebinary.in/">Pinnacle - A Virtual Learning Programme</a></li>
-							<li><a href="http://community.codebinary.in/">CodeBinary Community</a></li>
+							<li><a href="https://kalpanaa.codebinary.in/">Kalpanaa - A Women Entrepreneur Support Programme</a></li>
+							<li><a href="https://community.codebinary.in/">CodeBinary Community</a></li>
 							<li><a href="https://codebinaryinitiatives.setmore.com/">Book Appointment</a></li>
 						</ul>
 					</div>
@@ -90,10 +89,25 @@
 					<div class="col-md-5 animate-box">
 						<div class="owl-carousel3">
 							<div class="item">
-								<img class="img-responsive about-img" src="images/about-5.png" alt="">
+								<img class="img-responsive about-img" src="images/about-3.png" alt="SDG 03">
 							</div>
 							<div class="item">
-								<img class="img-responsive about-img" src="images/about-9.png" alt="">
+								<img class="img-responsive about-img" src="images/about-4.jpg" alt="SDG 04">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-5.png" alt="SDG 05">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-9.png" alt="SDG 09">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-10.jpg" alt="SDG 10">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-11.png" alt="SDG 11">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-17.png" alt="SDG 17">
 							</div>
 						</div>
 					</div>
@@ -111,12 +125,8 @@
 								<div class="rotate">
 									<h2 class="heading">About</h2>
 								</div>
-								<p>CodeBinary aims to address issues that affect and act as a hindrance in the development of certain developing countries like India. It's purpose is to provide a feasible and optimal solution to these problems. Codebinary is committed to Sustainable Development Goals and in the process to contribute towards the same, has introduced two major initiatives:</p>
-								<ul>
-								<li>Kalpanaa - A Women Entrepreneur Support Programme</li>
-								<li>Pinnacle - A Virtual Learning Programme</li>
-								</ul>
-								
+								<p>CodeBinary is conceived and built around the idea of addressing issues that act as a hindrance in development. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies.</p>
+								<p>It aims at providing a feasible and optimal solutions. CodeBinary is committed to Sustainable Development Goals and in the process to contribute towards these goals has introduced major initiatives.</p
 							</div>
 						</div>
 					</div>
@@ -144,7 +154,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="https://kalpanaa.codebinary.in/" target="_blank" class="work-img" style="background-image: url(images/wesp.JPG);">
+							<a href="https://kalpanaa.codebinary.in/" target="_blank" class="work-img" style="background-image: url(images/wesp.jpg);">
 								<div class="display-t">
 									<div class="work-name">
 										<h2>Kalpanaa</h2></br>
@@ -160,20 +170,97 @@
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="colorlib-blog">
+			<div class="container">
+				<div class="row text-center">
+					<h2 class="bold">Partnerships</h2>
+				</div>
+				<div class="row">
+					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
+						<h2>Collaboration</h2>
+					</div>
+				</div>
+				<div class="row">
 					<div class="col-md-12">
-						<div class="work-entry animate-box">
-							<a href="https://vlp.codebinary.in/" target="_blank" class="work-img" style="background-image: url(images/pinnacle.png);">
-								<div class="display-t">
-									<div class="work-name">
-										<h2>Pinnacle</h2></br>
-										<h5>A Virtual Learning Programme</h5>
+						<div class="rotate">
+							<h2 class="heading">Partnerships</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div class="owl-carousel1">
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-4.png" alt="Entrepreneurship Development Cell, GBPUA&T Pantnagar">
+									</a>
+									<div class="desc">
+										<span class="meta">October 2019</span>
+										<h2><a href="http://ecellgbpuat.com/" target="_blank">E-Cell, Pantnagar</a></h2>
+										<p>The Entrepreneurship Development Cell of GBPUA&T Pantnagar is a student run organisation establshed with objective of creating and promoting spirit of Entrepreneurship. </p>
 									</div>
 								</div>
-							</a>
-							<div class="col-md-8 col-md-offset-2">
-								<div class="desc">
-									<p>An initiative to part industrial skills to the youth in order to strengthen their working abilities and improve the quality of human resources. Through this virtual learning programme, the budding workforce of tomorrow will emerge stronger than before and will be able to bring about significant economic changes and innovation in industrial infrastructure. </p>
-									<p class="read"><a href="https://vlp.codebinary.in/" target="_blank">Take Me There!</a></p>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-5.jpg" alt="Sree Krishna Hindu Vidhyala Matric Higher Secondary School">
+									</a>
+									<div class="desc">
+										<span class="meta">October 2019</span>
+										<h2><a href="#" target="_blank">S.K.H.V.M Higher Secondary School</a></h2>
+										<p>Sree Krishna Hindu Vidyalaya Matriculation School is situated at Kanchinagar ,Kanyakumari and gives the students the best education and learning experience. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-2.png" alt="EngiGyan">
+									</a>
+									<div class="desc">
+										<span class="meta">September 2019</span>
+										<h2><a href="https://www.engigyan.com/" target="_blank">EngiGyan</a></h2>
+										<p>EngiGyan, an online software training platform, is an up and coming startup, which aims at redesigning the education process from scratch, in turn, revolutionizing the entire learning process. </p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-1.jpg" alt="Sarvpriye Foundation">
+									</a>
+									<div class="desc">
+										<span class="meta">May 2019</span>
+										<h2><a href="https://sarvpriyefoundation.org.in/" target="_blank">Sarvpriye Foundation</a></h2>
+										<p>Sarvpriye Foundation focuses on the promotion of girl child education and provides support to the women who are victims of domestic violence by generating employment opportunities and organising awareness campaigns.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-3.png" alt="SproutingWings">
+									</a>
+									<div class="desc">
+										<span class="meta">January 2019</span>
+										<h2><a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">SproutingWings</a></h2>
+										<p>SproutingWings provide a diverse range of digital marketing services to meet a vast list of needs from our clients. They strive to provide creativity and results-driven success that will help to grow your business. </p>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -181,6 +268,7 @@
 				</div>
 			</div>
 		</div>
+
 		
 		<div id="colorlib-services" id="community">
 			<div class="container">
@@ -204,7 +292,7 @@
 									</div>
 									<div class="col-md-12">
 										<div class="services animate-box">
-										<p>CodeBinary's community page amalgamates all it's member from various departments and acts as a directory. This page validates it's members' relationship with the company.</p>
+										<p>CodeBinary's community page amalgamates all its members from various departments and acts as a directory. This page validates its members' relationship with the company.</p>
 										<p>Since the names of the all members along with their contact information are put up here, anyone can reach out to them irrespective of their position for assistance. This has been done to make communication easier and ensure smooth working of the company together as a family.</p>
 										<p><a href="https://community.codebinary.in/" class="btn btn-primary btn-outline">Take Me There!</a></p>
 										</div>
@@ -228,7 +316,7 @@
 								<div class="col-md-12">
 									<h2>Our Motto</h2>
 									<p>Having a passion is great but finding a purpose is even greater.</p>
-									<p>CodeBinary provides employment opportunities for the like minded people who are passionate towards the cause and want to contribute to it. As a result, here passion meets a common purpose of uplifting the youth of today and women empowerment.</p>
+									<p>CodeBinary provides employment opportunities for the like-minded people who are passionate towards the cause and want to contribute to it. As a result, here passion meets a common purpose of uplifting the youth of today and women empowerment.</p>
 								</div>
 							</div>
 						</div>

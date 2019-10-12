@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /fonts
+Disallow: /js
+Disallow: /css
+Disallow: /sass
+Disaalow: /images
+Sitemap: https://codebinary.in/sitemap.xml
