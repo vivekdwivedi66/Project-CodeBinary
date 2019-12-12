@@ -9,7 +9,7 @@
 	<meta name="author" content="CodeBinary Initiatives" />
 	
 	<link rel="canonical" href="https://codebinary.in" />
-    <link rel="shortcut icon" href="images/codebinary_trans.png" />
+    <link rel="shortcut icon" href="images/logo.png" />
 
 	<link href="https://fonts.googleapis.com/css?family=Karla:400,700" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700" rel="stylesheet">
@@ -73,7 +73,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="colorlib-navbar-brand">
-							<a href="index.html"><img src="images/codebinary_trans.png" alt="CodeBinary Logo" style="height:75px"></a>
+							<a href="index.html"><img src="images/logo.png" alt="CodeBinary Logo" style="height:75px"></a>
 						</div>
 						<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 					</div>
@@ -105,6 +105,9 @@
 							</div>
 							<div class="item">
 								<img class="img-responsive about-img" src="images/about-11.png" alt="SDG 11">
+							</div>
+							<div class="item">
+								<img class="img-responsive about-img" src="images/about-12.png" alt="SDG 12">
 							</div>
 							<div class="item">
 								<img class="img-responsive about-img" src="images/about-17.png" alt="SDG 17">
@@ -193,6 +196,34 @@
 				</div>
 				<div class="row animate-box">
 					<div class="owl-carousel1">
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-7.jpg" alt="Prakash Saboo & Co.">
+									</a>
+									<div class="desc">
+										<span class="meta">December 2019</span>
+										<h2><a href="#" target="_blank">Prakash Saboo & Co.</a></h2>
+										<p>A Chartered Accountancy firm established in 1996 with specialized experience in corporate & project finance, Revival, Restructuring & turn around resolution & Business advisory consultancy.<p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="blog.html" class="blog-img">
+										<img class="img-responsive" src="images/collab-6.jpg" alt="EMGE">
+									</a>
+									<div class="desc">
+										<span class="meta">November 2019</span>
+										<h2><a href="#" target="_blank">EMGE</a></h2>
+										<p>An upcoming fashion retail project not limited to dealing with designing and providing merchandise to other organizations. The aim of the project is to deliver quality in an environment-friendly manner. <p>
+									</div>
+								</div>
+							</div>
+						</div>
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
