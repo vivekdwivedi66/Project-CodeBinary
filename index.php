@@ -57,10 +57,27 @@
 					<div class="col-md-12">
 						<ul>
 							<li class="active"><a href="index.html">Home</a></li>
+							<h2 class="head-title">Also visit</h2>
 							<li><a href="https://kalpanaa.codebinary.in/">Kalpanaa - A Women Entrepreneur Support Programme</a></li>
 							<li><a href="https://community.codebinary.in/">CodeBinary Community</a></li>
-							<li><a href="https://codebinaryinitiatives.setmore.com/">Book Appointment</a></li>
 						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<h2 class="head-title">Collaborations</h2>
+						<a href="images/collab-7.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-7.jpg);">
+							<span><i class="icon-search3"></i></span>
+						</a>
+						<a href="images/collab-6.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-6.jpg);">
+							<span><i class="icon-search3"></i></span>
+						</a>
+						<a href="images/collab-4.png" class="gallery image-popup-link text-center" style="background-image: url(images/collab-4.png);">
+							<span><i class="icon-search3"></i></span>
+						</a>
+						<a href="images/collab-5.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-5.jpg);">
+							<span><i class="icon-search3"></i></span>
+						</a>
 					</div>
 				</div>
 			</div>
@@ -128,8 +145,8 @@
 								<div class="rotate">
 									<h2 class="heading">About</h2>
 								</div>
-								<p>CodeBinary is conceived and built around the idea of addressing issues that act as a hindrance in development. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies.</p>
-								<p>It aims at providing a feasible and optimal solutions. CodeBinary is committed to Sustainable Development Goals and in the process to contribute towards these goals has introduced major initiatives.</p
+								<p>CodeBinary Initiatives is conceived and built around the idea to address issues that act as a hindrance in development of the humankind. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies via collaborations and initiatves.</p>
+								<p>CodeBinary is committed to Sustainable Development Goals and aims at providing a feasible and optimal solutions to meet them.</p
 							</div>
 						</div>
 					</div>
@@ -176,6 +193,7 @@
 				</div>
 			</div>
 		</div>
+		
 		
 		<div id="colorlib-blog">
 			<div class="container">
@@ -285,12 +303,12 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="images/collab-3.png" alt="SproutingWings">
+										<img class="img-responsive" src="images/collab-3.png" alt="Sprouting Wings">
 									</a>
 									<div class="desc">
 										<span class="meta">January 2019</span>
-										<h2><a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">SproutingWings</a></h2>
-										<p>SproutingWings provide a diverse range of digital marketing services to meet a vast list of needs from our clients. They strive to provide creativity and results-driven success that will help to grow your business. </p>
+										<h2><a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">Sprouting Wings</a></h2>
+										<p>Sprouting Wings provide a diverse range of digital marketing services to meet a vast list of needs from our clients. They strive to provide creativity and results-driven success that will help to grow your business. </p>
 									</div>
 								</div>
 							</div>
@@ -342,43 +360,33 @@
 			<div id="footer">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-5 col-pb-sm">
+						<div class="col-md-6 col-pb-sm">
+							<h2>Useful Links</h2>
+							<ul>
+						    <li><a href="privacy-policy.html">Privacy Policy</a> details our collection, use and disclosure of personal and non personal data you give to us, when you access or use the services provided by the CodeBinary</li>
+							<li><a href="terms-of-service.html">Terms of Service</a> outline the rules and regulations for the use of CodeBinary's System and Services. By accessing these we assume you accept these terms and conditions in full</li>
+							<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a> protects the CodeBinary’s employees, partners and the organization from illegal or damaging actions by the individuals, either knowingly or unknowingly.</li>
+							</ul>	
+						</div>
+						<div class="col-md-6 col-pb-sm">
 							<div class="row">
 								<div class="col-md-12">
 									<h2>Our Motto</h2>
-									<p>Having a passion is great but finding a purpose is even greater.</p>
-									<p>CodeBinary provides employment opportunities for the like-minded people who are passionate towards the cause and want to contribute to it. As a result, here passion meets a common purpose of uplifting the youth of today and women empowerment.</p>
+									<p><b><em>Having a passion is great but finding a purpose is even greater</em></b></p>
+									<p>CodeBinary provides employment opportunities for the like-minded people who are passionate towards the cause and want to contribute to it.</p>
+									<p><em>FF-27, Cross Road Mall, </br>Central Spine, Vidhyadhar Nagar, </br>Jaipur, Rajasthan, </br>302039, India</em></p>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-4 col-pb-sm">
-							<h2>Useful Links</h2>
-							<ul>
-						    <li><a href="privacy-policy.html">Privacy Policy</a></li>
-							<li><a href="terms-of-service.html">Terms of Service</a></li>
-							<li><a href="acceptable-use-policy.html">Acceptable Use Policy</a></li>
-							</ul>	
-							<h5>For Community Members</h5>
-							<ul>
-						    <li><a href="ei-policies/MLP.pdf" target="_blank">Menstrual Policy</a></li>
-							<li><a href="ei-policies/EEOP.pdf" target="_blank">Equal Employment Opportunity Policy</a></li>
-							<li><a href="ei-policies/ERP.pdf" target="_blank">Employee Realtionships Policy</a></li>
-							</ul>	
-						</div>
-						<div class="col-md-3 col-pb-sm">
-							<h2>We Are Here</h2>
-							<p>FF-27, Cross Road Mall, </br>Central Spine, Vidhyadhar Nagar, </br>Jaipur, Rajasthan, </br>302039, India</p>
-							<p><strong>Email: </strong><a href="mailto:contact@codebinary.in">contact@codebinary.in</a></p>
-							
-							<h2><a href="#">We Are Hiring!</a></h2>
-						</div>
 					</div>
+					
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<p class="colorlib-social-icons">
 								<a href="https://www.linkedin.com/company/codebinary/" target="_blank"><i class="icon-linkedin"></i></a>
 								<a href="https://www.instagram.com/codebinary.initiatives/" target="_blank"><i class="icon-instagram"></i></a>
 								<a href="https://github.com/projectcodebinary" target="_blank"><i class="icon-github"></i></a>
+								<a href="mailto:hr@codebinary.in" target="_blank"><i class="icon-mail"></i></a>
 							</p>
 							<p>
 							<strong>CodeBinary Initiatives</strong><br> Registered Under <strong>Ministry of Micro, Small & Medium Enterprises, GoI</strong>

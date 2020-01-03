@@ -1,45 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<url>
-  <loc>https://codebinary.in/</loc>
-  <lastmod>2019-06-11T11:39:52+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/privacy-policy.html</loc>
-  <lastmod>2019-06-11T11:35:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/terms-of-service.html</loc>
-  <lastmod>2019-06-11T11:35:41+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/acceptable-use-policy.html</loc>
-  <lastmod>2019-06-11T11:35:39+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/ei-policies/MLP.pdf</loc>
-  <lastmod>2019-06-11T11:35:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/ei-policies/EEOP.pdf</loc>
-  <lastmod>2019-06-11T11:35:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://codebinary.in/ei-policies/ERP.pdf</loc>
-  <lastmod>2019-06-11T11:36:00+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://codebinary.in/index.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-12-27T18:05:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codebinary.in/blog.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-12-27T18:05:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codebinary.in/privacy-policy.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-12-27T18:05:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codebinary.in/terms-of-service.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-12-27T18:05:29Z</lastmod>
+  </url>
+  <url>
+    <loc>https://codebinary.in/acceptable-use-policy.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-12-27T18:05:29Z</lastmod>
+  </url>
 </urlset>
