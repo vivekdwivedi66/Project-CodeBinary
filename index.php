@@ -184,7 +184,7 @@
 							</a>
 							<div class="col-md-8 col-md-offset-2">
 								<div class="desc">
-									<p>A platform for women to showcase their entrepreneurial skills. Kalpanaa's aim is to help women shape their idea of a new business and subsequently give their household business a new dimension by bringing it up in the global front, thus bridging the gender gap and bringing about gender equality and economic  development in the employment sector which is crucial for a sustainable future.</p>
+									<p>A platform for women to showcase their entrepreneurial skills. Kalpanaa's aim is to help women shape their idea of a new business and subsequently give their household business new dimension by bringing it up in the global front, thus bridging the gender gap and bringing about gender equality and economic  development in the employment sector which is crucial for a sustainable future.</p>
 									<p class="read"><a href="https://kalpanaa.codebinary.in/" target="_blank">Take Me There!</a></p>
 								</div>
 							</div>
@@ -370,7 +370,7 @@
 									<div class="col-md-12">
 										<div class="services animate-box">
 										<p>CodeBinary's community page amalgamates all its members from various departments and acts as a directory. This page validates its members' relationship with the company.</p>
-										<p>Since the names of the all members along with their contact information are put up here, anyone can reach out to them irrespective of their position for assistance. This has been done to make communication easier and ensure smooth working of the company together as a family.</p>
+										<p>Since the names of all members along with their contact information are put up here, anyone can reach out to them irrespective of their position for assistance. This has been done to make communication easier and ensure smooth working of the company together as a family.</p>
 										<p><a href="https://community.codebinary.in/" class="btn btn-primary btn-outline">Take Me There!</a></p>
 										</div>
 									</div>
