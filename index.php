@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>CodeBinary Initiatives</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="CodeBinary aims to address issues that affect and act as a hindrance in the development of certian developing countries like India. It's purpose is to provide feasible and optimal solution to these problems." />
+	<meta name="description" content="CodeBinary Initiatives is conceived and built around the idea to address issues that act as a hindrance in the development of the humankind. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies via collaborations and initiatives." />
 	<meta name="author" content="CodeBinary Initiatives" />
 	
 	<link rel="canonical" href="https://codebinary.in" />
@@ -56,7 +56,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<ul>
-							<li class="active"><a href="index.html">Home</a></li>
+							<li class="active"><a href="https://codebinary.in/">Home</a></li>
 							<h2 class="head-title">Also visit</h2>
 							<li><a href="https://kalpanaa.codebinary.in/">Kalpanaa - A Women Entrepreneur Support Programme</a></li>
 							<li><a href="https://community.codebinary.in/">CodeBinary Community</a></li>
@@ -66,16 +66,16 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h2 class="head-title">Collaborations</h2>
+						<a href="images/collab-9.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-9.jpg);">
+							<span><i class="icon-search3"></i></span>
+						</a>
+						<a href="images/collab-8.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-8.jpg);">
+							<span><i class="icon-search3"></i></span>
+						</a>
 						<a href="images/collab-7.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-7.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
 						<a href="images/collab-6.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-6.jpg);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-						<a href="images/collab-4.png" class="gallery image-popup-link text-center" style="background-image: url(images/collab-4.png);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-						<a href="images/collab-5.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/collab-5.jpg);">
 							<span><i class="icon-search3"></i></span>
 						</a>
 					</div>
@@ -145,8 +145,8 @@
 								<div class="rotate">
 									<h2 class="heading">About</h2>
 								</div>
-								<p>CodeBinary Initiatives is conceived and built around the idea to address issues that act as a hindrance in development of the humankind. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies via collaborations and initiatves.</p>
-								<p>CodeBinary is committed to Sustainable Development Goals and aims at providing a feasible and optimal solutions to meet them.</p
+								<p>CodeBinary Initiatives is conceived and built around the idea to address issues that act as a hindrance in the development of the humankind. It is envisioned as a platform where crucial problems are identified, surfaced and conscious efforts are made towards building remedies via collaborations and initiatives.</p>
+								<p>CodeBinary is committed to Sustainable Development Goals and aims at providing feasible and optimal solutions to meet them.</p
 							</div>
 						</div>
 					</div>
@@ -217,13 +217,41 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="#" class="blog-img">
+										<img class="img-responsive" src="images/collab-9.jpg" alt="Innvocon Learning Solutions">
+									</a>
+									<div class="desc">
+										<span class="meta">January 2020</span>
+										<h2><a href="#" target="_blank">Innvocon Learning Solutions</a></h2>
+										<p>Innvocon Learning Solutions is a for-profit organization established with the goal to bridge the gap between industry and academia by providing market tailored learning programs to graduates<p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="#" class="blog-img">
+										<img class="img-responsive" src="images/collab-8.jpg" alt="TYFRIO Agri Innovations">
+									</a>
+									<div class="desc">
+										<span class="meta">January 2020</span>
+										<h2><a href="#" target="_blank">TYFRIO Agri Innovations</a></h2>
+										<p>TYFRIO Agri Innovations is a for-profit organization established with the goal to enable urban dwellers to relish fresh food grown at their edifices on our IoT enabled gizmos aided by mobile application<p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="#" class="blog-img">
 										<img class="img-responsive" src="images/collab-7.jpg" alt="Prakash Saboo & Co.">
 									</a>
 									<div class="desc">
 										<span class="meta">December 2019</span>
 										<h2><a href="#" target="_blank">Prakash Saboo & Co.</a></h2>
-										<p>A Chartered Accountancy firm established in 1996 with specialized experience in corporate & project finance, Revival, Restructuring & turn around resolution & Business advisory consultancy.<p>
+										<p>A Chartered Accountancy firm established in 1996 with specialized experience in corporate & project finance, Revival, Restructuring & turn around resolution & Business advisory consultancy<p>
 									</div>
 								</div>
 							</div>
@@ -231,13 +259,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="#" class="blog-img">
 										<img class="img-responsive" src="images/collab-6.jpg" alt="EMGE">
 									</a>
 									<div class="desc">
 										<span class="meta">November 2019</span>
 										<h2><a href="#" target="_blank">EMGE</a></h2>
-										<p>An upcoming fashion retail project not limited to dealing with designing and providing merchandise to other organizations. The aim of the project is to deliver quality in an environment-friendly manner. <p>
+										<p>An upcoming fashion retail project not limited to dealing with designing and providing merchandise to other organizations. The aim of the project is to deliver quality in an environment-friendly manner<p>
 									</div>
 								</div>
 							</div>
@@ -245,13 +273,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="http://ecellgbpuat.com/" class="blog-img">
 										<img class="img-responsive" src="images/collab-4.png" alt="Entrepreneurship Development Cell, GBPUA&T Pantnagar">
 									</a>
 									<div class="desc">
 										<span class="meta">October 2019</span>
 										<h2><a href="http://ecellgbpuat.com/" target="_blank">E-Cell, Pantnagar</a></h2>
-										<p>The Entrepreneurship Development Cell of GBPUA&T Pantnagar is a student run organisation establshed with objective of creating and promoting spirit of Entrepreneurship. </p>
+										<p>The Entrepreneurship Development Cell of GBPUA&T Pantnagar is a student run organisation establshed with objective of creating and promoting spirit of Entrepreneurship</p>
 									</div>
 								</div>
 							</div>
@@ -259,13 +287,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="#" class="blog-img">
 										<img class="img-responsive" src="images/collab-5.jpg" alt="Sree Krishna Hindu Vidhyala Matric Higher Secondary School">
 									</a>
 									<div class="desc">
 										<span class="meta">October 2019</span>
 										<h2><a href="#" target="_blank">S.K.H.V.M Higher Secondary School</a></h2>
-										<p>Sree Krishna Hindu Vidyalaya Matriculation School is situated at Kanchinagar ,Kanyakumari and gives the students the best education and learning experience. </p>
+										<p>Sree Krishna Hindu Vidyalaya Matriculation School is situated at Kanchinagar ,Kanyakumari and gives the students the best education and learning experience</p>
 									</div>
 								</div>
 							</div>
@@ -273,13 +301,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="https://www.engigyan.com/" class="blog-img">
 										<img class="img-responsive" src="images/collab-2.png" alt="EngiGyan">
 									</a>
 									<div class="desc">
 										<span class="meta">September 2019</span>
 										<h2><a href="https://www.engigyan.com/" target="_blank">EngiGyan</a></h2>
-										<p>EngiGyan, an online software training platform, is an up and coming startup, which aims at redesigning the education process from scratch, in turn, revolutionizing the entire learning process. </p>
+										<p>EngiGyan, an online software training platform, is an up and coming startup, which aims at redesigning the education process from scratch, in turn, revolutionizing the entire learning process</p>
 									</div>
 								</div>
 							</div>
@@ -287,13 +315,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="https://sarvpriyefoundation.org.in/" class="blog-img">
 										<img class="img-responsive" src="images/collab-1.jpg" alt="Sarvpriye Foundation">
 									</a>
 									<div class="desc">
 										<span class="meta">May 2019</span>
 										<h2><a href="https://sarvpriyefoundation.org.in/" target="_blank">Sarvpriye Foundation</a></h2>
-										<p>Sarvpriye Foundation focuses on the promotion of girl child education and provides support to the women who are victims of domestic violence by generating employment opportunities and organising awareness campaigns.</p>
+										<p>Sarvpriye Foundation focuses on the promotion of girl child education and provides support to the women who are victims of domestic violence by generating employment opportunities and organising awareness campaigns</p>
 									</div>
 								</div>
 							</div>
@@ -302,13 +330,13 @@
 						<div class="item">
 							<div class="col-md-12">
 								<div class="article">
-									<a href="blog.html" class="blog-img">
+									<a href="https://www.sproutingwingsdigitalmarketing.com/" class="blog-img">
 										<img class="img-responsive" src="images/collab-3.png" alt="Sprouting Wings">
 									</a>
 									<div class="desc">
 										<span class="meta">January 2019</span>
 										<h2><a href="https://www.sproutingwingsdigitalmarketing.com/" target="_blank">Sprouting Wings</a></h2>
-										<p>Sprouting Wings provide a diverse range of digital marketing services to meet a vast list of needs from our clients. They strive to provide creativity and results-driven success that will help to grow your business. </p>
+										<p>Sprouting Wings provide a diverse range of digital marketing services to meet a vast list of needs from our clients. They strive to provide creativity and results-driven success that will help to grow your business</p>
 									</div>
 								</div>
 							</div>
