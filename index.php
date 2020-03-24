@@ -218,6 +218,58 @@
 							<div class="col-md-12">
 								<div class="article">
 									<a href="#" class="blog-img">
+										<img class="img-responsive" src="images/collab-13.jpg" alt="Bhooklagi">
+									</a>
+									<div class="desc">
+										<span class="meta">March 2020</span>
+										<h2><a href="#" target="_blank">Bhooklagi</a></h2>
+										<p>Operating since 2012, Bhooklagi is a campus grown startup of IIM Kozhikode. Having a Zomato-like model, it handles the consumable need of the campus residents by offering an amalgamation of Regional and Fast foods.</p></div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="#" class="blog-img">
+										<img class="img-responsive" src="images/collab-12.jpg" alt="Let's Put A Smile">
+									</a>
+									<div class="desc">
+										<span class="meta">March 2020</span>
+										<h2><a href="#" target="_blank">Let's Put A Smile</a></h2>
+										<p>Let's Put A Smile believes in the power of a smile. It focuses on the holistic development of children and lending a hand in moulding responsible and aware citizens for a better tomorrow.</p></div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="#" class="blog-img">
+										<img class="img-responsive" src="images/collab-11.png" alt="TrashCan">
+									</a>
+									<div class="desc">
+										<span class="meta">March 2020</span>
+										<h2><a href="#" target="_blank">TrashCan</a></h2>
+										<p>TrashCan intends to facilitate plastic recycling and promote the use of sustainable and eco-friendly alternatives. TrashCan aims to provide improved connectivity and mass outreach to multiple stakeholders in the plastic ecosystem.</p></div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="https://play.google.com/store/apps/details?id=com.jpdas.konnectdev" class="blog-img">
+										<img class="img-responsive" src="images/collab-10.jpg" alt="Konnect for IIM Kozhikode">
+									</a>
+									<div class="desc">
+										<span class="meta">February 2020</span>
+										<h2><a href="https://play.google.com/store/apps/details?id=com.jpdas.konnectdev" target="_blank">Konnect for IIM Kozhikode</a></h2>
+										<p>Konnect for IIMK, started in 2020 is a platform to provide basic information on day to day activities at IIM Kozhikode. This application acts as the interface where student community refers for information and avail services</p></div>
+								</div>
+							</div>
+						</div>
+						<div class="item">
+							<div class="col-md-12">
+								<div class="article">
+									<a href="#" class="blog-img">
 										<img class="img-responsive" src="images/collab-9.jpg" alt="Innvocon Learning Solutions">
 									</a>
 									<div class="desc">
